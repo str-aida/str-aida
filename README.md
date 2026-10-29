@@ -1,6 +1,7 @@
 # Hola, soy Aida 👋
 
 **Backend & Cloud Developer** · Java · Spring Boot · Docker · Google Cloud
+
 Analista de Sistemas (egreso dic. 2026) · Buenos Aires, Argentina
 
 Lidero el equipo de desarrollo de **[Gestia](https://gestiatech.com.ar)**, una plataforma de gestión para negocios que ya está en producción. Ahí aprendí a llevar un sistema desde el análisis hasta el deploy, y a sumarle IA de forma práctica con Google ADK y Gemini.
